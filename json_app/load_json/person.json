@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Syed Askari",
+        "age" : "23",
+        "height" : "172",
+        "gender" : "male",
+        "haircolor" : "brown"
+    },
+    {
+        "name" : "Mohsin Zafar",
+        "age" : "22",
+        "height" : "176",
+        "gender" : "male",
+        "haircolor" : "black"
+    },
+    {
+        "name" : "Ali",
+        "age" : "20",
+        "height" : "170",
+        "gender" : "male",
+        "haircolor" : "golden"
+    },
+    {
+        "name" : "hasan",
+        "age" : "19",
+        "height" : "173",
+        "gender" : "male",
+        "haircolor" : "black"
+    }
+]
